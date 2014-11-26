@@ -19,7 +19,7 @@ void FakeCinderProjectApp::setup()
 
 void FakeCinderProjectApp::mouseDown( MouseEvent event )
 {
-     cout << "Hi";
+     cout << "Hello World!";
 }
 
 void FakeCinderProjectApp::update()
