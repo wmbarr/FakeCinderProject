@@ -16,6 +16,7 @@
 		120B3CC947F74BA190323CF9 /* FakeCinderProjectApp.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0A418A0C20774FCFB386C6AB /* FakeCinderProjectApp.cpp */; };
 		5323E6B20EAFCA74003A9687 /* CoreVideo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5323E6B10EAFCA74003A9687 /* CoreVideo.framework */; };
 		5323E6B60EAFCA7E003A9687 /* QTKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5323E6B50EAFCA7E003A9687 /* QTKit.framework */; };
+		53D6CD071A27FEBD00EFB447 /* chester01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 53D6CD061A27FEBD00EFB447 /* chester01.jpg */; };
 		8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */; };
 /* End PBXBuildFile section */
 
@@ -33,6 +34,7 @@
 		2BE4E6E2272B4BDAA133D85B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5323E6B10EAFCA74003A9687 /* CoreVideo.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreVideo.framework; path = /System/Library/Frameworks/CoreVideo.framework; sourceTree = "<absolute>"; };
 		5323E6B50EAFCA7E003A9687 /* QTKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QTKit.framework; path = /System/Library/Frameworks/QTKit.framework; sourceTree = "<absolute>"; };
+		53D6CD061A27FEBD00EFB447 /* chester01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chester01.jpg; sourceTree = "<group>"; };
 		8D1107320486CEB800E47090 /* FakeCinderProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FakeCinderProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB7CF650F403475892CED0EE /* FakeCinderProject_Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = "\"\""; path = FakeCinderProject_Prefix.pch; sourceTree = "<group>"; };
 		DF55FB386D814D66A7169242 /* CinderApp.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; name = CinderApp.icns; path = ../resources/CinderApp.icns; sourceTree = "<group>"; };
@@ -113,6 +115,7 @@
 				29B97317FDCFA39411CA2CEA /* Resources */,
 				29B97323FDCFA39411CA2CEA /* Frameworks */,
 				19C28FACFE9D520D11CA2CBB /* Products */,
+				53D6CD061A27FEBD00EFB447 /* chester01.jpg */,
 			);
 			name = FakeCinderProject;
 			sourceTree = "<group>";
@@ -198,6 +201,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0E18567469E0436FBAC1FCA9 /* CinderApp.icns in Resources */,
+				53D6CD071A27FEBD00EFB447 /* chester01.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -70,9 +70,9 @@ t1417028738
 s459637
 
 N/Users/williambarr/Desktop/dev/FakeCinderProject/src/FakeCinderProjectApp.cpp
-c00000000547624820000000000000242
-t1417028738
-s578
+c000000005477BD240000000000000381
+t1417133348
+s897
 
 N/Users/williambarr/Desktop/dev/FakeCinderProject/xcode/FakeCinderProject_Prefix.pch
 c0000000054762482000000000000012D
@@ -85,51 +85,48 @@ t1417028738
 s1122
 
 N/Users/williambarr/Desktop/dev/FakeCinderProject/xcode/build/Debug/FakeCinderProject.app
-t1417028863
+t1417133372
 s102
 
 N/Users/williambarr/Desktop/dev/FakeCinderProject/xcode/build/Debug/FakeCinderProject.app/Contents/Info.plist
-t1417028863
+t1417133372
 s1512
 
 N/Users/williambarr/Desktop/dev/FakeCinderProject/xcode/build/Debug/FakeCinderProject.app/Contents/MacOS/FakeCinderProject
-t1417028883
-s2386152
+t1417133388
+s2387504
 
 N/Users/williambarr/Desktop/dev/FakeCinderProject/xcode/build/Debug/FakeCinderProject.app/Contents/PkgInfo
-t1417028863
+t1417133372
 s8
 
 N/Users/williambarr/Desktop/dev/FakeCinderProject/xcode/build/Debug/FakeCinderProject.app/Contents/Resources/CinderApp.icns
-t1417028863
+t1417133372
 s459637
 
 N/Users/williambarr/Desktop/dev/FakeCinderProject/xcode/build/FakeCinderProject.build/Debug/FakeCinderProject.build/Objects-normal/x86_64/FakeCinderProject.LinkFileList
-c00000000547624FF00000000000000A0
-t1417028863
+c000000005477BD3C00000000000000A0
+t1417133372
 s160
 
 N/Users/williambarr/Desktop/dev/FakeCinderProject/xcode/build/FakeCinderProject.build/Debug/FakeCinderProject.build/Objects-normal/x86_64/FakeCinderProjectApp.o
-t1417028882
-s1656776
+t1417133387
+s1659884
 
 N/var/folders/xl/6yykx_bn6cb2tww36ncrvxlh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/FakeCinderProject_Prefix-cbbgpccjjsucembjemumqegcvuav/FakeCinderProject_Prefix.pch.pch
-t1417028878
-s65675376
+t1417133384
+s65675420
 
 CBuild AST from /Users/williambarr/Desktop/dev/FakeCinderProject/src/FakeCinderProjectApp.cpp
 r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesaa9b977f5c26ba41^b8e7a97f5c26ba41^---0#1#1#--18"Check dependencies36"CC00900E-E159-4B6E-968A-51DEEBEA0FDA-
-
-CCompileC ./build/FakeCinderProject.build/Debug/FakeCinderProject.build/Objects-normal/i386/FakeCinderProjectApp.o /Users/williambarr/Desktop/dev/FakeCinderProject/src/FakeCinderProjectApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesadfc9ebcf427ba41^efffabbcf427ba41^---0#1#1#--18"Check dependencies36"20956DFF-2870-4F63-AE96-2CF7089EAEA6-
 
 CCompileC ./build/FakeCinderProject.build/Debug/FakeCinderProject.build/Objects-normal/x86_64/FakeCinderProjectApp.o /Users/williambarr/Desktop/dev/FakeCinderProject/src/FakeCinderProjectApp.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s438721678.262095
-e438721682.048798
+s438826184.407998
+e438826187.290662
 r1
 xCompileC
 x./build/FakeCinderProject.build/Debug/FakeCinderProject.build/Objects-normal/x86_64/FakeCinderProjectApp.o
@@ -140,25 +137,22 @@ xc++
 xcom.apple.compilers.llvm.clang.1_0.compiler
 d/Users/williambarr/Desktop/dev/FakeCinderProject/src/FakeCinderProjectApp.cpp
 d/Users/williambarr/Desktop/dev/cinder_0.8.6_mac/include/cinder/app/AppNative.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/williambarr/Desktop/dev/FakeCinderProject/src/FakeCinderProjectApp.cpp255"CompileC ./build/FakeCinderProject.build/Debug/FakeCinderProject.build/Objects-normal/x86_64/FakeCinderProjectApp.o /Users/williambarr/Desktop/dev/FakeCinderProject/src/FakeCinderProjectApp.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler8a564a8e5c26ba41^d9ec0c925c26ba41^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/williambarr/Desktop/dev/FakeCinderProject/src/FakeCinderProjectApp.cpp0000000000000000^3395"CompileC ./build/FakeCinderProject.build/Debug/FakeCinderProject.build/Objects-normal/x86_64/FakeCinderProjectApp.o /Users/williambarr/Desktop/dev/FakeCinderProject/src/FakeCinderProjectApp.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/williambarr/Desktop/dev/FakeCinderProject/xcode    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/FakeCinderProject.build/Debug/FakeCinderProject.build/FakeCinderProject-generated-files.hmap -I/Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/FakeCinderProject.build/Debug/FakeCinderProject.build/FakeCinderProject-own-target-headers.hmap -I/Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/FakeCinderProject.build/Debug/FakeCinderProject.build/FakeCinderProject-all-target-headers.hmap -iquote /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/FakeCinderProject.build/Debug/FakeCinderProject.build/FakeCinderProject-project-headers.hmap -iquote../../cinder_0.8.6_mac/include -iquote../include -I/Users/williambarr/Desktop/dev/FakeCinderProject/xcode/build/Debug/include -I../../cinder_0.8.6_mac/boost -I/Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/FakeCinderProject.build/Debug/FakeCinderProject.build/DerivedSources/x86_64 -I/Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/FakeCinderProject.build/Debug/FakeCinderProject.build/DerivedSources -F/Users/williambarr/Desktop/dev/FakeCinderProject/xcode/build/Debug -include /var/folders/xl/6yykx_bn6cb2tww36ncrvxlh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/FakeCinderProject_Prefix-cbbgpccjjsucembjemumqegcvuav/FakeCinderProject_Prefix.pch -MMD -MT dependencies -MF /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/FakeCinderProject.build/Debug/FakeCinderProject.build/Objects-normal/x86_64/FakeCinderProjectApp.d --serialize-diagnostics /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/FakeCinderProject.build/Debug/FakeCinderProject.build/Objects-normal/x86_64/FakeCinderProjectApp.dia -c /Users/williambarr/Desktop/dev/FakeCinderProject/src/FakeCinderProjectApp.cpp -o /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/build/FakeCinderProject.build/Debug/FakeCinderProject.build/Objects-normal/x86_64/FakeCinderProjectApp.o36"0EA25057-6888-4293-89F0-AAE1F9C10272-
-b02E811FC-CDE7-414B-ABE1-21755E428B93
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/williambarr/Desktop/dev/FakeCinderProject/src/FakeCinderProjectApp.cpp255"CompileC ./build/FakeCinderProject.build/Debug/FakeCinderProject.build/Objects-normal/x86_64/FakeCinderProjectApp.o /Users/williambarr/Desktop/dev/FakeCinderProject/src/FakeCinderProjectApp.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerca7070c8f427ba41^fd6a4acbf427ba41^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/williambarr/Desktop/dev/FakeCinderProject/src/FakeCinderProjectApp.cpp0000000000000000^3395"CompileC ./build/FakeCinderProject.build/Debug/FakeCinderProject.build/Objects-normal/x86_64/FakeCinderProjectApp.o /Users/williambarr/Desktop/dev/FakeCinderProject/src/FakeCinderProjectApp.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/williambarr/Desktop/dev/FakeCinderProject/xcode    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/FakeCinderProject.build/Debug/FakeCinderProject.build/FakeCinderProject-generated-files.hmap -I/Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/FakeCinderProject.build/Debug/FakeCinderProject.build/FakeCinderProject-own-target-headers.hmap -I/Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/FakeCinderProject.build/Debug/FakeCinderProject.build/FakeCinderProject-all-target-headers.hmap -iquote /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/FakeCinderProject.build/Debug/FakeCinderProject.build/FakeCinderProject-project-headers.hmap -iquote../../cinder_0.8.6_mac/include -iquote../include -I/Users/williambarr/Desktop/dev/FakeCinderProject/xcode/build/Debug/include -I../../cinder_0.8.6_mac/boost -I/Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/FakeCinderProject.build/Debug/FakeCinderProject.build/DerivedSources/x86_64 -I/Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/FakeCinderProject.build/Debug/FakeCinderProject.build/DerivedSources -F/Users/williambarr/Desktop/dev/FakeCinderProject/xcode/build/Debug -include /var/folders/xl/6yykx_bn6cb2tww36ncrvxlh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/FakeCinderProject_Prefix-cbbgpccjjsucembjemumqegcvuav/FakeCinderProject_Prefix.pch -MMD -MT dependencies -MF /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/FakeCinderProject.build/Debug/FakeCinderProject.build/Objects-normal/x86_64/FakeCinderProjectApp.d --serialize-diagnostics /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/FakeCinderProject.build/Debug/FakeCinderProject.build/Objects-normal/x86_64/FakeCinderProjectApp.dia -c /Users/williambarr/Desktop/dev/FakeCinderProject/src/FakeCinderProjectApp.cpp -o /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/build/FakeCinderProject.build/Debug/FakeCinderProject.build/Objects-normal/x86_64/FakeCinderProjectApp.o36"60B006B4-4D2E-4B05-842A-E2B955B27122-
+bC55F7907-F068-41E6-8DD0-9F0471ECA15B
 
 CCpResource /Users/williambarr/Desktop/dev/FakeCinderProject/resources/CinderApp.icns build/Debug/FakeCinderProject.app/Contents/Resources/CinderApp.icns
-s438721663.685748
-e438721663.693488
+s438826172.681454
+e438826172.691953
 r1
 xCpResource
 x/Users/williambarr/Desktop/dev/FakeCinderProject/resources/CinderApp.icns
 xbuild/Debug/FakeCinderProject.app/Contents/Resources/CinderApp.icns
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy build/Debug/FakeCinderProject.app/Contents/Resources/CinderApp.icns152"CpResource /Users/williambarr/Desktop/dev/FakeCinderProject/resources/CinderApp.icns build/Debug/FakeCinderProject.app/Contents/Resources/CinderApp.icns87a3af7f5c26ba41^685ab27f5c26ba41^---0#0#1#-19%DVTDocumentLocation2@129"file:///Users/williambarr/Desktop/dev/FakeCinderProject/xcode/build/Debug/FakeCinderProject.app/Contents/Resources/CinderApp.icns0034e892deffdf42^509"CpResource /Users/williambarr/Desktop/dev/FakeCinderProject/resources/CinderApp.icns build/Debug/FakeCinderProject.app/Contents/Resources/CinderApp.icns    cd /Users/williambarr/Desktop/dev/FakeCinderProject/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/williambarr/Desktop/dev/FakeCinderProject/resources/CinderApp.icns /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/build/Debug/FakeCinderProject.app/Contents/Resources36"C9176BBD-6CF9-43B4-BBF7-D1824D814724-
-b02E811FC-CDE7-414B-ABE1-21755E428B93
-
-CLd /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/Debug/FakeCinderProject.app/Contents/MacOS/FakeCinderProject normal i386
-r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy build/Debug/FakeCinderProject.app/Contents/Resources/CinderApp.icns152"CpResource /Users/williambarr/Desktop/dev/FakeCinderProject/resources/CinderApp.icns build/Debug/FakeCinderProject.app/Contents/Resources/CinderApp.icnse5efaebcf427ba41^8526b1bcf427ba41^---0#0#1#-19%DVTDocumentLocation2@129"file:///Users/williambarr/Desktop/dev/FakeCinderProject/xcode/build/Debug/FakeCinderProject.app/Contents/Resources/CinderApp.icns00345860dcffdf42^509"CpResource /Users/williambarr/Desktop/dev/FakeCinderProject/resources/CinderApp.icns build/Debug/FakeCinderProject.app/Contents/Resources/CinderApp.icns    cd /Users/williambarr/Desktop/dev/FakeCinderProject/xcode    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/williambarr/Desktop/dev/FakeCinderProject/resources/CinderApp.icns /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/build/Debug/FakeCinderProject.app/Contents/Resources36"CEB32B71-E989-4BDD-BA36-2FF6044DB6EA-
+bC55F7907-F068-41E6-8DD0-9F0471ECA15B
 
 CLd /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/Debug/FakeCinderProject.app/Contents/MacOS/FakeCinderProject normal x86_64
-s438721682.054295
-e438721683.199693
+s438826187.292862
+e438826188.559779
 r1
 xLd
 x/Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/Debug/FakeCinderProject.app/Contents/MacOS/FakeCinderProject
@@ -179,6 +173,10 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
 d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vImage.framework/Versions/A/vImage
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/vecLib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvDSP.dylib
@@ -212,15 +210,11 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvMisc.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libLAPACK.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.A.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
@@ -242,31 +236,25 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Link /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/Debug/FakeCinderProject.app/Contents/MacOS/FakeCinderProject85"Ld ./build/Debug/FakeCinderProject.app/Contents/MacOS/FakeCinderProject normal x86_64a3c80e925c26ba41^5c9237935c26ba41^---0#0#1#--1322"Ld ./build/Debug/FakeCinderProject.app/Contents/MacOS/FakeCinderProject normal x86_64    cd /Users/williambarr/Desktop/dev/FakeCinderProject/xcode    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/williambarr/Desktop/dev/FakeCinderProject/xcode/build/Debug -F/Users/williambarr/Desktop/dev/FakeCinderProject/xcode/build/Debug -filelist /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/FakeCinderProject.build/Debug/FakeCinderProject.build/Objects-normal/x86_64/FakeCinderProject.LinkFileList -mmacosx-version-min=10.7 -dead_strip ../../cinder_0.8.6_mac/lib/libcinder_d.a -stdlib=libc++ -framework Cocoa -framework OpenGL -framework CoreVideo -framework QTKit -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -Xlinker -dependency_info -Xlinker /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/FakeCinderProject.build/Debug/FakeCinderProject.build/Objects-normal/x86_64/FakeCinderProject_dependency_info.dat -o /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/Debug/FakeCinderProject.app/Contents/MacOS/FakeCinderProject36"40426A9A-787E-4732-97EE-B56E828CD8B1-
-b02E811FC-CDE7-414B-ABE1-21755E428B93
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Link /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/Debug/FakeCinderProject.app/Contents/MacOS/FakeCinderProject85"Ld ./build/Debug/FakeCinderProject.app/Contents/MacOS/FakeCinderProject normal x86_64fa9c4bcbf427ba41^09508fccf427ba41^---0#0#1#--1322"Ld ./build/Debug/FakeCinderProject.app/Contents/MacOS/FakeCinderProject normal x86_64    cd /Users/williambarr/Desktop/dev/FakeCinderProject/xcode    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/williambarr/Desktop/dev/FakeCinderProject/xcode/build/Debug -F/Users/williambarr/Desktop/dev/FakeCinderProject/xcode/build/Debug -filelist /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/FakeCinderProject.build/Debug/FakeCinderProject.build/Objects-normal/x86_64/FakeCinderProject.LinkFileList -mmacosx-version-min=10.7 -dead_strip ../../cinder_0.8.6_mac/lib/libcinder_d.a -stdlib=libc++ -framework Cocoa -framework OpenGL -framework CoreVideo -framework QTKit -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -Xlinker -dependency_info -Xlinker /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/FakeCinderProject.build/Debug/FakeCinderProject.build/Objects-normal/x86_64/FakeCinderProject_dependency_info.dat -o /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/Debug/FakeCinderProject.app/Contents/MacOS/FakeCinderProject36"1CEDC757-7970-4755-A67D-A8372C5071DB-
+bC55F7907-F068-41E6-8DD0-9F0471ECA15B
 
 CProcessInfoPlistFile /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/build/Debug/FakeCinderProject.app/Contents/Info.plist /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/Info.plist
-s438721663.671202
-e438721663.684874
+s438826172.673294
+e438826172.680820
 r1
 xProcessInfoPlistFile
 x/Users/williambarr/Desktop/dev/FakeCinderProject/xcode/build/Debug/FakeCinderProject.app/Contents/Info.plist
 x/Users/williambarr/Desktop/dev/FakeCinderProject/xcode/Info.plist
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Process /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/Info.plist85"ProcessInfoPlistFile build/Debug/FakeCinderProject.app/Contents/Info.plist Info.plist840fad7f5c26ba41^5a49af7f5c26ba41^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/williambarr/Desktop/dev/FakeCinderProject/xcode/Info.plist0000000000000000^511"ProcessInfoPlistFile build/Debug/FakeCinderProject.app/Contents/Info.plist Info.plist    cd /Users/williambarr/Desktop/dev/FakeCinderProject/xcode    builtin-infoPlistUtility /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/Info.plist -genpkginfo /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/build/Debug/FakeCinderProject.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/build/Debug/FakeCinderProject.app/Contents/Info.plist36"E7CD82DE-456D-496D-B25A-2FFB084B9465-
-b02E811FC-CDE7-414B-ABE1-21755E428B93
-
-CProcessPCH++ /Users/williambarr/Library/Developer/Xcode/DerivedData/FakeCinderProject-dsrtgvwmecdnireybcnrfdqcimqo/Index/PrecompiledHeaders/FakeCinderProject_Prefix-ayepvlbwshnkwlcgbhjutqqsohxd_ast/FakeCinderProject_Prefix.pch.pch FakeCinderProject_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Process /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/Info.plist85"ProcessInfoPlistFile build/Debug/FakeCinderProject.app/Contents/Info.plist Info.plist20b2acbcf427ba41^137daebcf427ba41^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/williambarr/Desktop/dev/FakeCinderProject/xcode/Info.plist0000000000000000^511"ProcessInfoPlistFile build/Debug/FakeCinderProject.app/Contents/Info.plist Info.plist    cd /Users/williambarr/Desktop/dev/FakeCinderProject/xcode    builtin-infoPlistUtility /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/Info.plist -genpkginfo /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/build/Debug/FakeCinderProject.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/build/Debug/FakeCinderProject.app/Contents/Info.plist36"A6452CB3-74F6-4637-B3C7-A1FF5F670E31-
+bC55F7907-F068-41E6-8DD0-9F0471ECA15B
 
 CProcessPCH++ /Users/williambarr/Library/Developer/Xcode/DerivedData/FakeCinderProject-dsrtgvwmecdnireybcnrfdqcimqo/Index/PrecompiledHeaders/FakeCinderProject_Prefix-gyernbbpfwdzgubqgffzsuczafcl_ast/FakeCinderProject_Prefix.pch.pch FakeCinderProject_Prefix.pch normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
 r0
 
-CProcessPCH++ /var/folders/xl/6yykx_bn6cb2tww36ncrvxlh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/FakeCinderProject_Prefix-btdreochywwtglbsyqstsrfbbrfw/FakeCinderProject_Prefix.pch.pch FakeCinderProject_Prefix.pch normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
 CProcessPCH++ /var/folders/xl/6yykx_bn6cb2tww36ncrvxlh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/FakeCinderProject_Prefix-cbbgpccjjsucembjemumqegcvuav/FakeCinderProject_Prefix.pch.pch FakeCinderProject_Prefix.pch normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s438721663.696151
-e438721678.235480
+s438826172.693030
+e438826184.365201
 r1
 xProcessPCH++
 x/var/folders/xl/6yykx_bn6cb2tww36ncrvxlh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/FakeCinderProject_Prefix-cbbgpccjjsucembjemumqegcvuav/FakeCinderProject_Prefix.pch.pch
@@ -1076,15 +1064,15 @@ d/Users/williambarr/Desktop/dev/cinder_0.8.6_mac/include/cinder/Thread.h
 d/Users/williambarr/Desktop/dev/cinder_0.8.6_mac/include/cinder/cocoa/CinderCocoa.h
 d/Users/williambarr/Desktop/dev/cinder_0.8.6_mac/include/cinder/ImageIo.h
 d/Users/williambarr/Desktop/dev/cinder_0.8.6_mac/include/cinder/DataTarget.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile FakeCinderProject_Prefix.pch308"ProcessPCH++ /var/folders/xl/6yykx_bn6cb2tww36ncrvxlh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/FakeCinderProject_Prefix-cbbgpccjjsucembjemumqegcvuav/FakeCinderProject_Prefix.pch.pch FakeCinderProject_Prefix.pch normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerbe17b37f5c26ba41^b3d33f8e5c26ba41^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/williambarr/Desktop/dev/FakeCinderProject/xcode/FakeCinderProject_Prefix.pch0000000000000000^3378"ProcessPCH++ /var/folders/xl/6yykx_bn6cb2tww36ncrvxlh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/FakeCinderProject_Prefix-cbbgpccjjsucembjemumqegcvuav/FakeCinderProject_Prefix.pch.pch FakeCinderProject_Prefix.pch normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/williambarr/Desktop/dev/FakeCinderProject/xcode    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/FakeCinderProject.build/Debug/FakeCinderProject.build/FakeCinderProject-generated-files.hmap -I/Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/FakeCinderProject.build/Debug/FakeCinderProject.build/FakeCinderProject-own-target-headers.hmap -I/Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/FakeCinderProject.build/Debug/FakeCinderProject.build/FakeCinderProject-all-target-headers.hmap -iquote /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/FakeCinderProject.build/Debug/FakeCinderProject.build/FakeCinderProject-project-headers.hmap -iquote../../cinder_0.8.6_mac/include -iquote../include -I/Users/williambarr/Desktop/dev/FakeCinderProject/xcode/build/Debug/include -I../../cinder_0.8.6_mac/boost -I/Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/FakeCinderProject.build/Debug/FakeCinderProject.build/DerivedSources/x86_64 -I/Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/FakeCinderProject.build/Debug/FakeCinderProject.build/DerivedSources -F/Users/williambarr/Desktop/dev/FakeCinderProject/xcode/build/Debug --serialize-diagnostics /var/folders/xl/6yykx_bn6cb2tww36ncrvxlh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/FakeCinderProject_Prefix-cbbgpccjjsucembjemumqegcvuav/FakeCinderProject_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/xl/6yykx_bn6cb2tww36ncrvxlh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/FakeCinderProject_Prefix-cbbgpccjjsucembjemumqegcvuav/FakeCinderProject_Prefix.pch.d -c /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/FakeCinderProject_Prefix.pch -o /var/folders/xl/6yykx_bn6cb2tww36ncrvxlh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/FakeCinderProject_Prefix-cbbgpccjjsucembjemumqegcvuav/FakeCinderProject_Prefix.pch.pch36"D0D68CF0-105C-410D-A93D-DB528C9D2B4D-
-b02E811FC-CDE7-414B-ABE1-21755E428B93
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile FakeCinderProject_Prefix.pch308"ProcessPCH++ /var/folders/xl/6yykx_bn6cb2tww36ncrvxlh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/FakeCinderProject_Prefix-cbbgpccjjsucembjemumqegcvuav/FakeCinderProject_Prefix.pch.pch FakeCinderProject_Prefix.pch normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler4e97b1bcf427ba41^e97f5dc8f427ba41^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/williambarr/Desktop/dev/FakeCinderProject/xcode/FakeCinderProject_Prefix.pch0000000000000000^3378"ProcessPCH++ /var/folders/xl/6yykx_bn6cb2tww36ncrvxlh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/FakeCinderProject_Prefix-cbbgpccjjsucembjemumqegcvuav/FakeCinderProject_Prefix.pch.pch FakeCinderProject_Prefix.pch normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/williambarr/Desktop/dev/FakeCinderProject/xcode    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/FakeCinderProject.build/Debug/FakeCinderProject.build/FakeCinderProject-generated-files.hmap -I/Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/FakeCinderProject.build/Debug/FakeCinderProject.build/FakeCinderProject-own-target-headers.hmap -I/Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/FakeCinderProject.build/Debug/FakeCinderProject.build/FakeCinderProject-all-target-headers.hmap -iquote /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/FakeCinderProject.build/Debug/FakeCinderProject.build/FakeCinderProject-project-headers.hmap -iquote../../cinder_0.8.6_mac/include -iquote../include -I/Users/williambarr/Desktop/dev/FakeCinderProject/xcode/build/Debug/include -I../../cinder_0.8.6_mac/boost -I/Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/FakeCinderProject.build/Debug/FakeCinderProject.build/DerivedSources/x86_64 -I/Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/FakeCinderProject.build/Debug/FakeCinderProject.build/DerivedSources -F/Users/williambarr/Desktop/dev/FakeCinderProject/xcode/build/Debug --serialize-diagnostics /var/folders/xl/6yykx_bn6cb2tww36ncrvxlh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/FakeCinderProject_Prefix-cbbgpccjjsucembjemumqegcvuav/FakeCinderProject_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/xl/6yykx_bn6cb2tww36ncrvxlh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/FakeCinderProject_Prefix-cbbgpccjjsucembjemumqegcvuav/FakeCinderProject_Prefix.pch.d -c /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/FakeCinderProject_Prefix.pch -o /var/folders/xl/6yykx_bn6cb2tww36ncrvxlh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/FakeCinderProject_Prefix-cbbgpccjjsucembjemumqegcvuav/FakeCinderProject_Prefix.pch.pch36"D0243BBF-CE78-4D27-8E81-AD3282018A29-
+bC55F7907-F068-41E6-8DD0-9F0471ECA15B
 
 CTouch /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/Debug/FakeCinderProject.app
-s438721683.201624
-e438721683.215915
+s438826188.566885
+e438826188.577970
 r1
 xTouch
 x/Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/Debug/FakeCinderProject.app
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Touch /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/Debug/FakeCinderProject.app41"Touch ./build/Debug/FakeCinderProject.appbcae33935c26ba41^50a837935c26ba41^---0#0#1#--217"Touch ./build/Debug/FakeCinderProject.app    cd /Users/williambarr/Desktop/dev/FakeCinderProject/xcode    /usr/bin/touch -c /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/Debug/FakeCinderProject.app36"F7EAEA6B-1B2F-42D6-9E3D-3860BEE8F828-
-b02E811FC-CDE7-414B-ABE1-21755E428B93
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Touch /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/Debug/FakeCinderProject.app41"Touch ./build/Debug/FakeCinderProject.app773191ccf427ba41^23f893ccf427ba41^---0#0#1#--217"Touch ./build/Debug/FakeCinderProject.app    cd /Users/williambarr/Desktop/dev/FakeCinderProject/xcode    /usr/bin/touch -c /Users/williambarr/Desktop/dev/FakeCinderProject/xcode/./build/Debug/FakeCinderProject.app36"109BBD43-98C4-4C76-9903-E63411B75E68-
+bC55F7907-F068-41E6-8DD0-9F0471ECA15B
 
